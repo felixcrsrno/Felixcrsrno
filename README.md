@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/username_kamu.png" width="130" style="border-radius: 50%;" alt="Felix Cris Rino Avatar"/>
+  <img src="https://github.com/felixcrsrno.png" width="130" style="border-radius: 50%;" alt="Felix Cris Rino Avatar"/>
 </p>
 
 <h3 align="center">Felix Cris Rino &bull; Full-Stack & AI &bull; 3rd Year Student @ Pamulang University</h3>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:felixpros182@gmail.com">Email</a> &bull;
-  <a href="https://linkedin.com/in/felix-cris-rino">LinkedIn</a> &bull;
+  <a href="https://linkedin.com/in/felix-cris-rino-4653a1284">LinkedIn</a> &bull;
   <a href="https://instagram.com/felixcrsrno">Instagram</a>
 </p>
 
