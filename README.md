@@ -25,7 +25,7 @@
 
 ## currently building
 
-* **PharmaPOS** is a comprehensive pharmacy management and point-of-sale (POS) system developed as part of a practical work  project for **Apotek Alfatih**. Migrated fully from native PHP to a modern Laravel architecture, it features real-time inventory auditing, transaction tracking, structured analytical dashboards, and robust data export pipelines (such as automated Excel reporting) built to ensure maximum data consistency.
+* **PharmaPOS** is a comprehensive pharmacy management and point-of-sale (POS) system developed as part of a practical work project for **Apotek Alfatih**. Migrated fully from native PHP to a modern Laravel architecture, it features real-time inventory auditing, transaction tracking, structured analytical dashboards, and robust data export pipelines (such as automated Excel reporting) built to ensure maximum data consistency.
 
 ---
 
@@ -58,6 +58,7 @@
 ### 🛠️ tools
 ![Windsurf](https://img.shields.io/badge/Windsurf-%2300A3E0.svg?style=flat-square&logo=windsurf&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-006699?style=flat-square&logo=laragon&logoColor=white)
