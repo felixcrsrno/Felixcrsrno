@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Felix" width="130" alt="Felix Cris Rino Avatar"/>
+  <img src="https://github.com/username_kamu.png" width="130" style="border-radius: 50%;" alt="Felix Cris Rino Avatar"/>
 </p>
 
 <h3 align="center">Felix Cris Rino &bull; Full-Stack & AI &bull; 3rd Year Student @ Pamulang University</h3>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="felixpros182u@gmail.com">Email</a> &bull;
+  <a href="mailto:felixpros182@gmail.com">Email</a> &bull;
   <a href="https://linkedin.com/in/felix-cris-rino">LinkedIn</a> &bull;
   <a href="https://instagram.com/felixcrsrno">Instagram</a>
 </p>
@@ -25,7 +25,7 @@
 
 ## currently building
 
-* **PharmaPOS v2.0** is a comprehensive pharmacy management and point-of-sale (POS) application. Migrated fully from native PHP to a modern Laravel architecture, it features real-time inventory auditing, transaction tracking, structured analytical dashboards, and robust data export pipelines (such as automated reporting) built to ensure maximum data consistency.
+* **PharmaPOS** is a comprehensive pharmacy management and point-of-sale (POS) system developed as part of a practical work  project for **Apotek Alfatih**. Migrated fully from native PHP to a modern Laravel architecture, it features real-time inventory auditing, transaction tracking, structured analytical dashboards, and robust data export pipelines (such as automated Excel reporting) built to ensure maximum data consistency.
 
 ---
 
@@ -61,6 +61,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-006699?style=flat-square&logo=laragon&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&技巧Color=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
